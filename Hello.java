@@ -6,6 +6,10 @@ public class Hello {
 		System.out.println("Hello"); 
 		
 		System.out.println("hi");
+		
+		int a, int b;
+		
+		int c=a+b;
 	}
 
 }
